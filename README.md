@@ -1,7 +1,6 @@
 # ToDo
 
-**ToDo_terminal** is a command-line task management program written in C++. While it doesn't have a graphical user interface (GUI), it offers a simple and efficient way to manage tasks directly from your terminal. The commands used in this program are reminiscent of Linux commands, making it easy to get started and use for anyone familiar with the terminal.
-
+**ToDo_terminal** is a command-line task management program written in C++. While it doesn't have a graphical user interface (GUI), it offers a simple and efficient way to manage tasks directly from your terminal. The commands used in this program are reminiscent of Linux commands, making it easy to get started and use for anyone familiar with the terminal. It saves every task in a file called task_file_db.
 ## Getting Started
 
 To compile and run **ToDo**, you have two options:
