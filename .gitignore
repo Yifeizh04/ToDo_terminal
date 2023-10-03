@@ -1,0 +1,2 @@
+git rm --cached run
+git rm --cached task_file_db
